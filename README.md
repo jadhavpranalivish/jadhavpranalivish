@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hello, I'm Pranali Jadhav!
 
-<!--
-**jadhavpranalivish/jadhavpranalivish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Java Developer | Passionate Learner | Problem Solver
 
-Here are some ideas to get you started:
+💫 About Me  
+- 🌱 I’m currently learning Spring Boot, REST APIs, and Front-end Integration  
+- 💬 Ask me about Java, SQL, Web Development, and OOP Concepts  
+- 🎯 My goal: To become a Full-Stack Java Developer  
+- ⚡ Fun fact: I love turning ideas into working applications!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with Me  
+LinkedIn -  http://www.linkedin.com/in/pranali1p4 
+Gmail -  jadhavpranali632@gmail.com
+
+⭐ *Thanks for visiting my profile! Have a wonderful day!* 🌻
